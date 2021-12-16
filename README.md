@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm GVenusLeo</h1>
-  关注我 👉 <a herf="https://web.okjike.com/u/561f7160-d58c-4156-ab66-a103c9955e52" target="_blank">即刻-GVenusLeo</a>
+  关注我 👉 <a src="https://web.okjike.com/u/561f7160-d58c-4156-ab66-a103c9955e52" target="_blank">即刻-GVenusLeo</a>
 </div>
 
 ---
