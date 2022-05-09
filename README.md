@@ -7,4 +7,5 @@
   <ol>⛳ 想成为独立开发者的在读医学生</ol>
   <ol>👻 十级社恐，非单身，勿撩</ol>
   <ol>🧮 更多信息 👉 <a href="https://jike.city/gvenusleo" target="_blank">Yellow Page</a></ol>
+  <ol>🎨 我的博客 👉 <a href="https://promiseland.top" target="_blank">https://promiseland.top</a></ol>
 </ul>
