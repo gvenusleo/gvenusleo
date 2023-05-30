@@ -7,5 +7,5 @@
 - ⛳ 想成为独立开发者的在读医学生
 - 👻 十级社恐，非单身，勿撩
 - 🪁 我的社交媒体 👉 [即刻](https://m.okjike.com/users/561f7160-d58c-4156-ab66-a103c9955e52) | [Twitter](https://twitter.com/liuyu_xin)
-- 🌠 在写一个周更的 Blog 👉 [应许之地](https://blog.liuyu.xin)
+- 🌠 在写一个 Blog 👉 [应许之地](https://blog.liuyu.xin)
 - 🧩 联系我 👉 [Yellow Page](https://jike.city/gvenusleo)
