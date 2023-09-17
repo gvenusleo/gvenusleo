@@ -22,4 +22,3 @@
 </p>
 <h3>Github Stats:</h3>
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gvenusleo&theme=github" alt="gvenusleo" /></p>
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvenusleo&theme=github"/></p>
